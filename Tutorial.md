@@ -10,15 +10,15 @@ There will never be a guide that will give you perfect results. Each server has 
 
 Map pregeneration is one of the most important steps in improving a minecraft server. You can use a plugin such as [Chunky](https://https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiqr5TGluvzAhWIlGoFHXwBDbUQFnoECAYQAQ&url=https%3A%2F%2Fwww.spigotmc.org%2Fresources%2Fchunky.81534%2F&usg=AOvVaw2RGi5NzonllW86cLD1zpaE) to pregenerate the world. Make sure to set up a world border so players don't generate new chunks! Note: pregenerate take alot of hours
 
-## Configurations:
+# Configurations:
 
-#### server.properties
+## server.properties
 
 **network-compression-threshold**
 
 `Good starting value: 256`
 
-#### Purpur.yml
+## Purpur.yml
 
 **use-alternate-keepalive**
 
@@ -52,7 +52,7 @@ Map pregeneration is one of the most important steps in improving a minecraft se
 
 `value: true`
 
-#### Spigot.yml
+## Spigot.yml
 
 **view-distance**
 
@@ -107,7 +107,7 @@ Map pregeneration is one of the most important steps in improving a minecraft se
 
 `Good starting value: 8`
 
-#### Paper.yml
+## Paper.yml
 
 **no-tick-view-distance**
 
@@ -284,7 +284,7 @@ Map pregeneration is one of the most important steps in improving a minecraft se
 
 `Good starting value: 127`
 
-#### Airplane.yml
+## Airplane.yml
 
 **max-loads-per-projectile**
 
@@ -322,7 +322,7 @@ Map pregeneration is one of the most important steps in improving a minecraft se
     water-underground-creature-spawns: 400
     ambient-spawns: 400
     
-### Plugins
+## Plugins
 
 We recommend to use our plugins for your minecraft server, but we also recommend LaggAssist and ClearLagg
 
